@@ -4,8 +4,51 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c18a431949c2285ff59a942ef86e13cd",
-    "packages": [],
+    "content-hash": "726ce77effa48d85a6973d55717bcde4",
+    "packages": [
+        {
+            "name": "freekattema/wordpress-theme-buffer",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Freekiehsoes/WordpressThemeBuffer.git",
+                "reference": "7bf32435ee4e68a7998ecf7fcc5b149276b56fe5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Freekiehsoes/WordpressThemeBuffer/zipball/7bf32435ee4e68a7998ecf7fcc5b149276b56fe5",
+                "reference": "7bf32435ee4e68a7998ecf7fcc5b149276b56fe5",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/autoinit.php"
+                ],
+                "psr-4": {
+                    "Freekattema\\WordpressThemeBuffer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "freekattema",
+                    "email": "freekattema@live.nl"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/Freekiehsoes/WordpressThemeBuffer/issues",
+                "source": "https://github.com/Freekiehsoes/WordpressThemeBuffer/tree/1.0.0"
+            },
+            "time": "2022-12-01T13:11:22+00:00"
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",

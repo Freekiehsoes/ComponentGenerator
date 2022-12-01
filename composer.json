@@ -13,7 +13,8 @@
     }
   ],
   "require": {
-    "php": ">=7.3"
+    "php": ">=7.3",
+    "freekattema/wordpress-theme-buffer": "^1.0"
   },
   "minimum-stability": "dev",
   "license": "proprietary"
