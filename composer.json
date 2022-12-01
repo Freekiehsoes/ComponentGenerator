@@ -1,0 +1,20 @@
+{
+  "name": "freekattema/component",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "Freekattema\\Component\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "freekattema",
+      "email": "freekattema@live.nl"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "minimum-stability": "dev",
+  "license": "proprietary"
+}
