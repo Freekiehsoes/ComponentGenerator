@@ -1,6 +1,6 @@
 <?php
 
-namespace Freekattema\Component;
+namespace Freekattema\Wordpress\Component;
 
 abstract class Component {
     /** @var ComponentData  */

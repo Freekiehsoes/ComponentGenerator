@@ -3,7 +3,7 @@
   "description": "",
   "autoload": {
     "psr-4": {
-      "Freekattema\\Component\\": "src/"
+      "Freekattema\\Wordpress\\Component\\": "src/"
     }
   },
   "authors": [
@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": ">=7.3",
-    "freekattema/wordpress-theme-buffer": "^1.0"
+    "freekattema/wordpress-theme-buffer": "^2.0"
   },
   "minimum-stability": "dev",
   "license": "proprietary"
